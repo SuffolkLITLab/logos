@@ -1,5 +1,7 @@
 # LIT Lab Logo Assets 
 
+Below are previews and links to png and svg versions of the LIT Logo. 
+
 ![SuffolkLITLab_navy_and_gold_on_transparent_bg.png](SuffolkLITLab_navy_and_gold_on_transparent_bg.png)
 [SuffolkLITLab_navy_and_gold_on_transparent_bg.png](SuffolkLITLab_navy_and_gold_on_transparent_bg.png) | [SuffolkLITLab_navy_and_gold_on_transparent_bg.svg](SuffolkLITLab_navy_and_gold_on_transparent_bg.svg)
 
