@@ -1,21 +1,18 @@
-# LIT Lab Logo Assets 
+# LIT Lab logo
 
-Below are previews and links to png and svg versions of the LIT Logo. 
+Below are previews and links to PNG and SVG versions of the current LIT Lab logo. 
 
-![SuffolkLITLab_navy_and_gold_on_transparent_bg.png](SuffolkLITLab_navy_and_gold_on_transparent_bg.png)
-[SuffolkLITLab_navy_and_gold_on_transparent_bg.png](SuffolkLITLab_navy_and_gold_on_transparent_bg.png) | [SuffolkLITLab_navy_and_gold_on_transparent_bg.svg](SuffolkLITLab_navy_and_gold_on_transparent_bg.svg)
+![Large](/current-logo/png/lit-lab-logo-large.png)
+[PNG](/current-logo/png/lit-lab-logo-large.png) | [SVG](/current-logo/svg/lit-lab-logo-large.svg)
 
+![Stacked](/current-logo/png/lit-lab-logo-stacked.png)
+[PNG](/current-logo/png/lit-lab-logo-stacked.png) | [SVG](/current-logo/svg/lit-lab-logo-stacked.svg)
 
-![SuffolkLITLab_white_and_gold_on_navy_box.png](SuffolkLITLab_white_and_gold_on_navy_box.png)
-[SuffolkLITLab_white_and_gold_on_navy_box.png](SuffolkLITLab_white_and_gold_on_navy_box.png) | [SuffolkLITLab_white_and_gold_on_navy_box.svg](SuffolkLITLab_white_and_gold_on_navy_box.svg)
+![Small](/current-logo/png/lit-lab-logo-small.png)
+[PNG](/current-logo/png/lit-lab-logo-small.png) | [SVG](/current-logo/svg/lit-lab-logo-small.svg)
 
+![Torch](/current-logo/png/lit-lab-torch.png)
+[PNG](/current-logo/png/lit-lab-torch.png) | [SVG](/current-logo/svg/lit-lab-torch.svg)
 
-![SuffolkLITLab_monochromatic_black_on_transparent_bg.png](SuffolkLITLab_monochromatic_black_on_transparent_bg.png)[SuffolkLITLab_monochromatic_black_on_transparent_bg.png](SuffolkLITLab_monochromatic_black_on_transparent_bg.png) | [SuffolkLITLab_monochromatic_black_on_transparent_bg.svg](SuffolkLITLab_monochromatic_black_on_transparent_bg.svg)
-
-
-![SuffolkLITLab_white_and_gold_on_transparent_bg.png](SuffolkLITLab_white_and_gold_on_transparent_bg.png)
-[SuffolkLITLab_white_and_gold_on_transparent_bg.png](SuffolkLITLab_white_and_gold_on_transparent_bg.png) | [SuffolkLITLab_white_and_gold_on_transparent_bg.svg](SuffolkLITLab_white_and_gold_on_transparent_bg.svg)
-
-
-![SuffolkLITLab_monochromatic_white_on_transparent_bg.png](SuffolkLITLab_monochromatic_white_on_transparent_bg.png)
-[SuffolkLITLab_monochromatic_white_on_transparent_bg.png](SuffolkLITLab_monochromatic_white_on_transparent_bg.png) | [SuffolkLITLab_monochromatic_white_on_transparent_bg.svg](SuffolkLITLab_monochromatic_white_on_transparent_bg.svg)
+![Favicon](/current-logo/png/lit-favicon.png)
+[PNG](/current-logo/png/lit-favicon.png) | [SVG](/current-logo/svg/lit-favicon.svg)
