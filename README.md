@@ -1,6 +1,6 @@
 # LIT Lab logo
 
-Below are previews and links to PNG and SVG versions of the current LIT Lab logo.
+Below are previews and links to PNG and SVG versions of the current LIT Lab logo. (Note: GitHub strips background-color styles when displaying this page on github.com, so the inverted and white logos are difficult to see.)
 
 <table>
   <thead>
@@ -31,7 +31,9 @@ Below are previews and links to PNG and SVG versions of the current LIT Lab logo
       <th>Stacked</th>
       <td style="background-color: white">
         <img alt="Stacked" src="./current-logo/png/lit-lab-logo-stacked.png">
-        <a href="./current-logo/png/lit-lab-logo-stacked.png">PNG</a> <a href="./current-logo/svg/lit-lab-logo-stacked.svg">SVG</a>
+        <a href="./current-logo/png/lit-lab-logo-stacked.png">PNG</a>
+        <a href="./current-logo/png/lit-lab-logo-stacked-white-bg.png" title="The white background makes this a better choice for a social share image because the logo may not show up well for users with dark mode.">PNG (white background)</a>
+        <a href="./current-logo/svg/lit-lab-logo-stacked.svg">SVG</a>
       </td>
       <td style="background-color: #15284b">
         <img alt="Stacked inverted" src="./current-logo/png/lit-lab-logo-stacked-inverted.png">
